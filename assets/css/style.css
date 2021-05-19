@@ -1,0 +1,1110 @@
+html {
+  scroll-behavior: smooth;
+}
+.fixed-top .fa-bars{
+  background: white;
+}
+@media (min-width: 300px) { 
+.fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+  background: #000000;
+}
+.fixed-top img{
+  width: 50px;
+}
+.fixed-top .nav-link{
+  font-size: 18px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+.fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+  text-align: center;
+
+}
+ .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: center; 
+
+  }
+  .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 22% 0% 0% 19%;
+
+  }
+ .content-neverlag .karakter{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: -17%
+    padding-right: -1%;
+    height: auto;
+  }
+
+   .content-neverlag .karakter-1{
+    width: 80%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: -2%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 8px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 20px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 17px;
+  }
+ .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 6%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 5% 8% 5%;
+  }
+    .content-neverlag-2 .card-deck .card{
+    background: none;
+   
+  }
+   .content-neverlag-2 .card-deck img{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size: 18px;
+     margin: 0% 0% 8% 0%;
+  }
+      .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 25px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+     width: 25%;
+     padding: 2% 0% 10% 0%;
+  }
+     .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+    font-size: 25px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 18px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+          .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: right;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-sm-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 15px;
+    color: #ff0041;
+    text-align: center;
+    display:table;
+    margin:0 auto;
+  }
+    .content-neverlag-5 img{
+     width: 10%;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+     margin-bottom: 3%;
+  }
+
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3%;
+    width: 50%;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+}
+@media (min-width: 580px) { 
+  .fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+  background: #000000;
+}
+.fixed-top img{
+  width: 50px;
+}
+.fixed-top .nav-link{
+  font-size: 18px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+.fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+  text-align: center;
+}
+ .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: center; 
+
+  }
+  .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 22% 0% 0% 20%;
+
+  }
+ .content-neverlag .karakter{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 3%;
+    padding-right: 0%;
+    height: auto;
+  }
+
+   .content-neverlag .karakter-1{
+    width: 80%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: -4%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 8px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 20px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 17px;
+  }
+ .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 6%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 5% 8% 5%;
+  }
+    .content-neverlag-2 .card-deck .card{
+    background: none;
+   
+  }
+   .content-neverlag-2 .card-deck img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size: 15px;
+     margin: 0% 0% 8% 0%;
+
+  }
+    .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 27px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+     width: 20%;
+     padding: 2% 0% 10% 0%;
+  }
+    .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+     font-size: 28px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 18px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+   .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-md-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 16px;
+    color: #ff0041;
+    text-align: left;
+    display: all;
+    margin: 0 0 0 0;
+  }
+    .content-neverlag-5 img{
+     width: 80%;
+     display: block;
+    margin-right: 0;
+      margin-left: 0;
+  }
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+     width: 80%;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+
+}
+  
+@media (min-width: 768px) { 
+.fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+  background: #000000;
+}
+.fixed-top img{
+  width: 50px;
+}
+.fixed-top .nav-link{
+  font-size: 18px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+.fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+  text-align: center;
+
+}
+  .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    /*padding: 7% 0% 0% 0%;*/
+  }
+  .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: right; 
+
+  }
+  .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 5% 0% 0% 6%;
+
+  }
+ .content-neverlag .karakter{
+    width: 120%;
+    margin-top: 12%;
+    margin-left: -17%;
+    padding-right: -1%;
+    height: auto;
+
+  }
+
+   .content-neverlag .karakter-1{
+    width: 70%;
+    height: auto;
+    margin-top: 10%;
+    margin-left: -4%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 8px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 20px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 17px;
+  }
+   .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 31px;
+    color: #FFFFFF;
+    padding: 6%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 10% 8% 10%;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size: 18px;
+     margin: 0% 0% 8% 0%;
+
+  }
+      .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+    font-size: 31px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 25px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+    width: 45%;
+    padding: 0% 0% 0% 0%;
+  }
+  .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+    font-size: 31px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 18px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+ .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-md-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 16px;
+    color: #ff0041;
+    text-align: left;
+    display: block;
+    margin: 0 0 0 0;
+  }
+    .content-neverlag-5 img{
+     width: 70%;
+  }
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+}
+
+@media (min-width: 992px) { 
+.fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+   background: #000000;
+}
+.fixed-top img{
+  width: 50px;
+}
+.fixed-top .nav-link{
+  font-size: 18px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+.fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+}
+  .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+    .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: right; 
+
+  }
+     .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 7% 0% 0% 7%;
+
+  }
+ .content-neverlag .karakter{
+    width: 120%;
+    margin-top: 10%;
+    margin-left: -17%;
+    padding-right: -1%;
+    height: auto;
+
+  }
+
+   .content-neverlag .karakter-1{
+    width: 70%;
+    height: auto;
+    margin-top: 90%;
+    margin-left: -4%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 8px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 25px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 20px;
+  }
+    .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 31px;
+    color: #FFFFFF;
+    padding: 6%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 10% 8% 10%;
+  }
+    .content-neverlag-2 .card-deck img{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size: 18px;
+     margin: 0% 0% 8% 0%;
+
+  }
+      .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+   font-size: 31px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 25px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+    width: 45%;
+    padding: 0% 0% 0% 0%;
+  }
+    .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+    font-size: 31px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 18px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+    .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-lg-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 16px;
+    color: #ff0041;
+    text-align: left;
+    display: block;
+    margin: 0 0 0 0;
+  }
+    .content-neverlag-5 img{
+     width: 70%;
+  }
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+ }
+
+
+@media (min-width: 1200px) { 
+.fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+  background: #000000;
+}
+.fixed-top img{
+  width: 50px;
+}
+.fixed-top .nav-link{
+  font-size: 18px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+.fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+}
+  .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+    .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: right; 
+
+  }
+     .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 8% 0% 0% 8%;
+
+  }
+ .content-neverlag .karakter{
+    width: 120%;
+    margin-top: 10%;
+    margin-left: -18%;;
+    padding-right: 0%;
+    height: auto;
+
+  }
+
+   .content-neverlag .karakter-1{
+    width: 70%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: -4%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 10px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 30px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 22px;
+  }
+  .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 35px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 10% 5% 10%;
+  }
+      .content-neverlag-2 .card-deck img{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size:20px;
+     margin: 0% 0% 5% 0%;
+  }
+    .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+    font-size: 35px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 25px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+    width: 45%;
+    padding: 0% 0% 0% 0%;
+  }
+      .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+    font-size: 35px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 20px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+       .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-lg-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 18px;
+    color: #ff0041;
+    text-align: left;
+    display: block;
+    margin: 0 0 0 0;
+  }
+    .content-neverlag-5 img{
+     width: 50%;
+  }
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+}
+
+@media (min-width: 1900px) { 
+  .fixed-top{
+  padding: 0.5% 9% 0.5% 9%;
+  background: #000000;
+}
+.fixed-top img{
+  width: 80px;
+}
+  .fixed-top .nav-link{
+  font-size: 21px;
+  color: #FFFFFF;
+  font-weight: 600;
+  margin-left: 10px;
+}
+  .fixed-top .nav-link:hover{
+  background: red;
+  border-radius: 20px;
+}
+  .content-neverlag{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+  }
+  .content-neverlag .col-lg-6.karakter-kanan{
+   text-align: right; 
+
+  }
+  .content-neverlag .col-lg-6.karakter-kiri{
+   padding: 10% 10% 0% 10%;
+
+  }
+  .content-neverlag .karakter{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 1.5%;
+    padding-right: 0%;
+    height: auto;
+
+  }
+
+   .content-neverlag .karakter-1{
+    width: 100%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: -4%;
+    display: block;
+  }
+  .content-neverlag hr{
+    background: #FFFFFF;
+    height: 10px;
+    width: 20%;
+    margin-left: 0%;
+  }
+  .content-neverlag p{
+    color: #FFFFFF;
+    margin-left: 0%;
+    font-size: 30px;
+  }
+  .content-neverlag button{
+    margin-left: 0%;
+    background: red;
+    border-color: red;
+    font-size: 25px;
+  }
+    .content-neverlag-2{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-2 h1{
+    font-size: 43px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+  .content-neverlag-2 .card-deck{
+    padding: 0% 10% 5% 10%;
+  }
+   .content-neverlag-2 button{
+    background: red;
+    border-color: red;
+    font-size: 25px;
+    margin: 0% 0% 5% 0%;
+  }
+    .content-neverlag-2 .card-deck img{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+      .content-neverlag-3{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+     text-align: center;
+  }
+  .content-neverlag-3 h1{
+     font-size: 43px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+    .content-neverlag-3 .icon-neverlag{
+      padding: 2% 5% 10% 5%;
+
+  }
+  .content-neverlag-3 .icon-neverlag h2{
+      text-align: center;
+      color: red;
+      font-size: 35px;
+  }
+    .content-neverlag-3 .icon-neverlag img{
+    width: 38%;
+    padding: 0% 0% 0% 0%;
+  }
+    .content-neverlag-4{
+     width: 100%;
+    height: auto;
+    background: red;
+    text-align: center;
+    padding-bottom: 7%;
+  }
+    .content-neverlag-4 h1{
+     font-size: 43px;
+    color: #FFFFFF;
+    padding: 5%;
+    text-align: center;
+    font-weight: bold;
+  }
+   .content-neverlag-4 button{
+    font-size: 25px;
+    margin-top: 5%;
+    background: #000000;
+    border-style: none;
+   }
+    .content-neverlag-5{
+     width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: top;
+    text-align: left;
+    /*padding-bottom: 7%;*/
+  }
+  .content-neverlag-5 .row-atas{
+    padding: 7%;
+  }
+  .content-neverlag-5 .row-bawah .col-lg-12{
+    padding-bottom: 7%;
+  }
+  .content-neverlag-5 a:hover{
+    text-decoration: none;
+  }
+  .content-neverlag-5 span{
+    font-size: 20px;
+    color: #ff0041;
+    text-align: left;
+    display: block;
+    margin: 0 0 0 0;
+  }
+    .content-neverlag-5 img{
+     width: 50%;
+  }
+  .content-neverlag-5 .logo-footer{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .content-neverlag-5 .spn-footer{
+    text-align: center;
+    color: #FFFFFF;
+  }
+}
